@@ -4,7 +4,6 @@
 ![Language](https://img.shields.io/badge/Language-C-blue)
 ![Norm](https://img.shields.io/badge/Norm-42-black)
 ![Grade](https://img.shields.io/badge/Grade-100%2F100-brightgreen)
-![Pipeline Status](https://gitlab.com/ja-de_42-lisboa/1-common-core/libft/badges/master/pipeline.svg)
 
 This repository contains my implementation of **libft**, the first project of the 42 common core curriculum at **42 Lisboa**, completed in 2026.
 
