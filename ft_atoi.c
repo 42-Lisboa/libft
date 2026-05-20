@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jcas1808 <jcas1808@student.42.fr>          +#+  +:+       +#+        */
+/*   By: jcosta-a <jcosta-a@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/16 21:45:26 by jcosta-a          #+#    #+#             */
-/*   Updated: 2026/04/27 00:42:06 by jcas1808         ###   ########.fr       */
+/*   Updated: 2026/04/30 17:14:16 by jcosta-a         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,8 +15,8 @@
 
 int	ft_atoi(const char *nptr)
 {
-	int	nb;
-	int	sign;
+	long	nb;
+	int		sign;
 
 	while (*nptr == ' ' || (*nptr >= '\t' && *nptr <= '\r'))
 	{
