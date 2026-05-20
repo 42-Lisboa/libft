@@ -170,4 +170,4 @@ AI was **not** used to generate or write any C source code submitted as part of 
 
 ---
 
-Developed by  [Jonathan Alves](https://gitlab.com/ja-de_42-lisboa) — 42 Lisboa, 2026
+Developed by [Jonathan Alves](https://gitlab.com/ja-de_42-lisboa) — 42 Lisboa, 2026
